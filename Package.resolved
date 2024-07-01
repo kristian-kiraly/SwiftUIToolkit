@@ -1,0 +1,105 @@
+{
+  "originHash" : "b14f36bcf40609c7e7f8bb94a07ceaef1ab007f79961ac62bb1e3924aa646bdb",
+  "pins" : [
+    {
+      "identity" : "asyncbuttons",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/AsyncButtons",
+      "state" : {
+        "revision" : "e0701c624ab6f200ebfda570fef348ad1836c64e",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "cachedsounds",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/CachedSounds",
+      "state" : {
+        "revision" : "cac2d10b7915a980285c3e6da57aa9dc086fa018",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "customlist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/CustomList",
+      "state" : {
+        "revision" : "9bbf55981340045e14a154837f23b25b93b83149",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "digitview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/DigitView",
+      "state" : {
+        "revision" : "714a6d6d5bd1c1cdb632c88898870ba788e8213d",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "filemanagerpersistence",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/FileManagerPersistence",
+      "state" : {
+        "revision" : "d63503ca8211cdb291a35ad4a9bdbd81981bcec1",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "numbertextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/NumberTextField",
+      "state" : {
+        "revision" : "59b3a145092531244eaa05f43c44664e626448dc",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pageabledatamanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/PageableDataManager",
+      "state" : {
+        "revision" : "70ad57fe4df83741dc52aeb0204f1ac962922477",
+        "version" : "1.0.7"
+      }
+    },
+    {
+      "identity" : "swiftuicolorpicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/SwiftUIColorPicker",
+      "state" : {
+        "revision" : "878e7faf5673c95ee499fb224b7cd0d0d1e81feb",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swipeactions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/SwipeActions",
+      "state" : {
+        "revision" : "92c38e203ee645da2f74f1c0f9107ab2569147fd",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "uikitswiftuiviews",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/UIKitSwiftUIViews",
+      "state" : {
+        "revision" : "defb1b1998502ade07fa4cae0b86131a780ac800",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "viewcontrollermanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/ViewControllerManager",
+      "state" : {
+        "revision" : "baca344542985f72d8ef99835da190d24847c96b",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
