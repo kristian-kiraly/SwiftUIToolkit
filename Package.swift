@@ -26,6 +26,7 @@ let package = Package(
         .package(url: "https://github.com/kristian-kiraly/NumberTextField", from: "1.0.0"),
         .package(url: "https://github.com/kristian-kiraly/DigitView", from: "1.0.0"),
         .package(url: "https://github.com/kristian-kiraly/CustomList", from: "1.0.0"),
+        .package(url: "https://github.com/kristian-kiraly/CodableDictionaryConverter", from: "1.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -44,6 +45,7 @@ let package = Package(
                 "NumberTextField",
                 "DigitView",
                 "CustomList",
+                "CodableDictionaryConverter",
             ]
         ),
         .testTarget(
@@ -61,6 +63,7 @@ let package = Package(
                 "NumberTextField",
                 "DigitView",
                 "CustomList",
+                "CodableDictionaryConverter",
             ]),
     ]
 )

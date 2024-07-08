@@ -1,5 +1,5 @@
 {
-  "originHash" : "b14f36bcf40609c7e7f8bb94a07ceaef1ab007f79961ac62bb1e3924aa646bdb",
+  "originHash" : "4b50cabe97d14ee3432e82191efb5d38697499fe54d918ff35ff184121e0b0dc",
   "pins" : [
     {
       "identity" : "asyncbuttons",
@@ -17,6 +17,15 @@
       "state" : {
         "revision" : "cac2d10b7915a980285c3e6da57aa9dc086fa018",
         "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "codabledictionaryconverter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kristian-kiraly/CodableDictionaryConverter",
+      "state" : {
+        "revision" : "dc62c12ca75d28b14cc842d556bac19d7161d7c5",
+        "version" : "1.0.0"
       }
     },
     {
